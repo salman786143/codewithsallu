@@ -10,5 +10,6 @@ public class MicroServicesApplication {
 		SpringApplication.run(MicroServicesApplication.class, args);
 		System.out.println("salman");
 	}
+	
 
 }
